@@ -214,10 +214,10 @@
         "value": {
           "color": "#0000001a",
           "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
+          "x": "0",
+          "y": "1",
+          "blur": "2",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -225,10 +225,10 @@
         "value": {
           "color": "#00000029",
           "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 4,
-          "spread": 0
+          "x": "0",
+          "y": "1",
+          "blur": "4",
+          "spread": "0"
         },
         "type": "boxShadow"
       },
@@ -236,10 +236,10 @@
         "value": {
           "color": "#0000002e",
           "type": "dropShadow",
-          "x": 0,
-          "y": 5,
-          "blur": 15,
-          "spread": -3
+          "x": "0",
+          "y": "5",
+          "blur": "15",
+          "spread": "-3"
         },
         "type": "boxShadow"
       },
@@ -247,10 +247,10 @@
         "value": {
           "color": "#00000033",
           "type": "dropShadow",
-          "x": 0,
-          "y": 15,
-          "blur": 20,
-          "spread": -5
+          "x": "0",
+          "y": "15",
+          "blur": "20",
+          "spread": "-5"
         },
         "type": "boxShadow"
       },
@@ -258,10 +258,10 @@
         "value": {
           "color": "#00000040",
           "type": "dropShadow",
-          "x": 0,
-          "y": 25,
-          "blur": 50,
-          "spread": -12
+          "x": "0",
+          "y": "25",
+          "blur": "50",
+          "spread": "-12"
         },
         "type": "boxShadow"
       }
@@ -702,6 +702,10 @@
         "value": "#f4f4f6",
         "type": "color"
       },
+      "bg--AAA": {
+        "value": "#26253B",
+        "type": "color"
+      },
       "bg-primary": {
         "value": "{palatte.brand.500}",
         "type": "color"
@@ -785,11 +789,11 @@
         "type": "color"
       },
       "text-link": {
-        "value": "#2e7dd9",
+        "value": "{palatte.blue.600}",
         "type": "color"
       },
       "text-danger": {
-        "value": "#da3751",
+        "value": "{palatte.red.500}",
         "type": "color"
       },
       "text-success": {
