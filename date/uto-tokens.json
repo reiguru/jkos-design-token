@@ -703,11 +703,11 @@
         "type": "color"
       },
       "bg--AAA": {
-        "value": "#26253B",
+        "value": "#26253b",
         "type": "color"
       },
       "bg-primary": {
-        "value": "{palatte.brand.500}",
+        "value": "#cfa14b",
         "type": "color"
       },
       "bg-danger": {
@@ -747,11 +747,11 @@
         "type": "color"
       },
       "divider-AAA": {
-        "value": "$palatte.black.10",
+        "value": "#0000001a",
         "type": "color"
       },
       "divider-AA": {
-        "value": "$palatte.black.5",
+        "value": "#0000000d",
         "type": "color"
       },
       "text--AAA": {
@@ -775,25 +775,25 @@
         "type": "color"
       },
       "divider--AAA": {
-        "value": "$palatte.white.10",
+        "value": "#ffffff1a",
         "description": "",
         "type": "color"
       },
       "divider--AA": {
-        "value": "$palatte.white.5",
+        "value": "#ffffff0d",
         "description": "",
         "type": "color"
       },
       "text-primary": {
-        "value": "{palatte.brand.600}",
+        "value": "#bb8b31",
         "type": "color"
       },
       "text-link": {
-        "value": "{palatte.blue.600}",
+        "value": "#2e7dd9",
         "type": "color"
       },
       "text-danger": {
-        "value": "{palatte.red.500}",
+        "value": "#da3751",
         "type": "color"
       },
       "text-success": {
@@ -998,44 +998,44 @@
       },
       "gray": {
         "50": {
-          "value": "#f4f4f6",
+          "value": "#ededef",
           "type": "color"
         },
         "100": {
-          "value": "#ededf1",
+          "value": "#e4e4e7",
           "type": "color"
         },
         "200": {
-          "value": "#d9dae4",
+          "value": "#cac9d0",
           "type": "color"
         },
         "300": {
-          "value": "#b7b8c4",
+          "value": "#9896a2",
           "type": "color"
         },
         "400": {
-          "value": "#9fa0ab",
+          "value": "#7f7d8c",
           "type": "color"
         },
         "500": {
-          "value": "#7d7d87",
+          "value": "#686677",
           "type": "color",
           "description": "content font"
         },
         "600": {
-          "value": "#5c5d65",
+          "value": "#514f62",
           "type": "color"
         },
         "700": {
-          "value": "#42434a",
+          "value": "#3b394e",
           "type": "color"
         },
         "800": {
-          "value": "#292734",
+          "value": "#26253b",
           "type": "color"
         },
         "900": {
-          "value": "#171718",
+          "value": "#1c1b29",
           "type": "color",
           "description": "title"
         }
