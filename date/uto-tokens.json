@@ -734,6 +734,11 @@
         "description": "with text--AAA",
         "type": "color"
       },
+      "bg-gradient-1": {
+        "value": "linear-gradient(45deg, #EF01DB 0%, #14CBD5 100%)",
+        "description": "with text--AAA",
+        "type": "color"
+      },
       "text-AAA": {
         "value": "{palatte.black.90}",
         "type": "color"
