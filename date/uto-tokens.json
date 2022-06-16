@@ -695,117 +695,121 @@
     },
     "theme": {
       "bg-AAA": {
-        "value": "#ffffff",
+        "value": "{palatte.white.100}",
         "type": "color"
       },
       "bg-AA": {
-        "value": "#f4f4f6",
+        "value": "{palatte.gray.50}",
         "type": "color"
       },
       "bg--AAA": {
-        "value": "#26253b",
+        "value": "{palatte.gray.800}",
+        "type": "color"
+      },
+      "bg--AA": {
+        "value": "{palatte.gray.700}",
         "type": "color"
       },
       "bg-primary": {
-        "value": "#cfa14b",
+        "value": "{palatte.gray.900}",
         "type": "color"
       },
       "bg-danger": {
-        "value": "#da3751",
+        "value": "{palatte.red.400}",
         "description": "with text--AAA",
         "type": "color"
       },
       "bg-warning": {
-        "value": "#ffe669",
+        "value": "{palatte.yellow.400}",
         "description": "with text-AAA",
         "type": "color"
       },
       "bg-success": {
-        "value": "#37c871",
+        "value": "{palatte.green.400}",
         "description": "with text--AAA",
         "type": "color"
       },
       "bg-remind": {
-        "value": "#ff7605",
+        "value": "{palatte.orange.400}",
         "description": "with text--AAA",
         "type": "color"
       },
       "text-AAA": {
-        "value": "#000000e6",
+        "value": "{palatte.black.90}",
         "type": "color"
       },
       "text-AA": {
-        "value": "#000000b3",
+        "value": "{palatte.black.70}",
         "type": "color"
       },
       "text-A": {
-        "value": "#00000080",
+        "value": "{palatte.black.50}",
         "type": "color"
       },
       "text-muted": {
-        "value": "#0000004d",
+        "value": "{palatte.black.30}",
         "type": "color"
       },
       "divider-AAA": {
-        "value": "#0000001a",
+        "value": "{palatte.black.10}",
         "type": "color"
       },
       "divider-AA": {
-        "value": "#0000000d",
+        "value": "{palatte.black.5}",
         "type": "color"
       },
       "text--AAA": {
-        "value": "#ffffff",
+        "value": "{palatte.white.100}",
         "description": "",
         "type": "color"
       },
       "text--AA": {
-        "value": "#ffffffb3",
+        "value": "{palatte.white.70}",
         "description": "",
         "type": "color"
       },
       "text--A": {
-        "value": "#ffffff80",
+        "value": "{palatte.white.50}",
         "description": "",
         "type": "color"
       },
       "text--muted": {
-        "value": "#ffffff33",
+        "value": "{palatte.white.20}",
         "description": "",
         "type": "color"
       },
       "divider--AAA": {
-        "value": "#ffffff1a",
+        "value": "{palatte.white.10}",
         "description": "",
         "type": "color"
       },
       "divider--AA": {
-        "value": "#ffffff0d",
+        "value": "{palatte.white.5}",
         "description": "",
         "type": "color"
       },
       "text-primary": {
-        "value": "#bb8b31",
+        "value": "{palatte.brand.600}",
         "type": "color"
       },
       "text-link": {
-        "value": "#2e7dd9",
+        "value": "{palatte.blue.500}",
         "type": "color"
       },
       "text-danger": {
-        "value": "#da3751",
+        "value": "{palatte.red.500}",
         "type": "color"
       },
       "text-success": {
-        "value": "#23a15a",
+        "value": "{palatte.green.500}",
         "type": "color"
       },
       "text-warning": {
-        "value": "#ebb509",
+        "value": "{palatte.yellow.600}",
         "type": "color"
       },
       "text-remind": {
-        "value": "#ff7605",
+        "value": "{palatte.orange.500}",
         "type": "color"
       }
     },
@@ -963,19 +967,19 @@
           "type": "color"
         },
         "200": {
-          "value": "#84D8DF",
+          "value": "#A6E2E7",
           "type": "color"
         },
         "300": {
-          "value": "#5BCED7",
+          "value": "#84D8DF",
           "type": "color"
         },
         "400": {
-          "value": "#0BC4CF",
+          "value": "#5BCED7",
           "type": "color"
         },
         "500": {
-          "value": "#1D99A2",
+          "value": "#0BC4CF",
           "type": "color",
           "description": "brand color"
         },
