@@ -693,7 +693,7 @@
         "type": "sizing"
       }
     },
-    "dark_theme": {
+    "theme": {
       "bg-AAA": {
         "value": "{palatte.white.100}",
         "type": "color"
@@ -1744,7 +1744,7 @@
     }
   },
   "dark_theme": {
-    "dark_theme": {
+    "theme": {
       "bg-AAA": {
         "value": "{palatte.gray.700}",
         "type": "color"
