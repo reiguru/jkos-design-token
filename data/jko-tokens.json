@@ -1129,6 +1129,14 @@
         "value": "{palette.gray.50}",
         "type": "color"
       },
+      "bg--AAA": {
+        "value": "{palette.gray.900}",
+        "type": "color"
+      },
+      "bg--AA": {
+        "value": "{palette.gray.800}",
+        "type": "color"
+      },
       "bg-primary": {
         "value": "{palette.brand.500}",
         "type": "color"
