@@ -1829,7 +1829,7 @@
         "type": "color"
       },
       "divider--AAA": {
-        "value": "{palatte.black.10}",
+        "value": "{palatte.white.10}",
         "description": "",
         "type": "color"
       },
