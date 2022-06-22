@@ -735,7 +735,7 @@
         "type": "color"
       },
       "bg-gradient-1": {
-        "value": "linear-gradient(45deg, #EF01DB 0%, #14CBD5 100%)",
+        "value": "{palatte.gradient.1}",
         "description": "with text--AAA",
         "type": "color"
       },
@@ -1342,6 +1342,12 @@
           "value": "#25112D",
           "type": "color"
         }
+      },
+      "gradient": {
+        "1": {
+          "value": "linear-gradient(45deg, #EF01DB 0%, #14CBD5 100%)",
+          "type": "color"
+        }
       }
     },
     "lineHeights": {
@@ -1780,7 +1786,7 @@
         "type": "color"
       },
       "bg-gradient-1": {
-        "value": "linear-gradient(45deg, #EF01DB 0%, #14CBD5 100%)",
+        "value": "{palatte.gradient.1}",
         "description": "with text--AAA",
         "type": "color"
       },
