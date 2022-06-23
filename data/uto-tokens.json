@@ -917,12 +917,12 @@
         "type": "color"
       },
       "divider--AAA": {
-        "value": "{palatte.white.10}",
+        "value": "{palatte.black.10}",
         "description": "",
         "type": "color"
       },
       "divider--AA": {
-        "value": "{palatte.white.5}",
+        "value": "{palatte.black.5}",
         "description": "",
         "type": "color"
       },
