@@ -806,11 +806,11 @@
         "type": "color"
       },
       "text-danger": {
-        "value": "{palatte.red.500}",
+        "value": "{palatte.red.400}",
         "type": "color"
       },
       "text-success": {
-        "value": "{palatte.green.500}",
+        "value": "{palatte.green.400}",
         "type": "color"
       },
       "text-warning": {
@@ -927,7 +927,7 @@
         "type": "color"
       },
       "text-primary": {
-        "value": "{palatte.brand.500}",
+        "value": "{palatte.brand.400}",
         "type": "color"
       },
       "text-link": {
@@ -939,7 +939,7 @@
         "type": "color"
       },
       "text-success": {
-        "value": "{palatte.green.500}",
+        "value": "{palatte.green.400}",
         "type": "color"
       },
       "text-warning": {
