@@ -1095,6 +1095,52 @@
           "type": "color"
         }
       },
+      "neutralGray": {
+        "5": {
+          "value": "#868686d",
+          "type": "color"
+        },
+        "10": {
+          "value": "#8686861a",
+          "type": "color"
+        },
+        "20": {
+          "value": "#86868633",
+          "type": "color"
+        },
+        "30": {
+          "value": "#8686864d",
+          "type": "color"
+        },
+        "40": {
+          "value": "#86868666",
+          "type": "color"
+        },
+        "50": {
+          "value": "#86868680",
+          "type": "color"
+        },
+        "60": {
+          "value": "#86868699",
+          "type": "color"
+        },
+        "70": {
+          "value": "#868686b3",
+          "type": "color"
+        },
+        "80": {
+          "value": "#868686cc",
+          "type": "color"
+        },
+        "90": {
+          "value": "#868686e6",
+          "type": "color"
+        },
+        "100": {
+          "value": "#868686",
+          "type": "color"
+        }
+      },
       "brand": {
         "50": {
           "value": "#BAFAF9",
