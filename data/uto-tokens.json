@@ -1095,7 +1095,7 @@
           "type": "color"
         }
       },
-      "neutralGray": {
+      "grey": {
         "5": {
           "value": "#868686d",
           "type": "color"
