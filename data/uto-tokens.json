@@ -2277,7 +2277,7 @@
             "type": "color"
           }
         },
-        "help-hint-msg-with-icon": {
+        "help-text-hint-msg-with-icon": {
           "error": {
             "value": "#000",
             "type": "color"
