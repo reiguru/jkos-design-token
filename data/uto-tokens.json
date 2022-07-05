@@ -1926,7 +1926,7 @@
     "theme": {
       "button": {
         "primary": {
-          "bg-default": {
+          "btn-primary-bg-default": {
             "type": "color",
             "value": "{palette.brand.400}"
           },
