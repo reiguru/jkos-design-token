@@ -693,7 +693,7 @@
         "type": "sizing"
       }
     },
-    "components": {
+    "theme": {
       "bg-AAA": {
         "type": "color",
         "value": "{palette.white.100}"
