@@ -693,7 +693,7 @@
         "type": "sizing"
       }
     },
-    "theme": {
+    "components": {
       "bg-AAA": {
         "type": "color",
         "value": "{palette.white.100}"
@@ -1923,10 +1923,10 @@
     }
   },
   "component": {
-    "theme": {
-      "button": {
+    "components": {
+      "btn": {
         "primary": {
-          "btn-primary-bg-default": {
+          "bg-default": {
             "type": "color",
             "value": "{palette.brand.400}"
           },
@@ -2265,13 +2265,13 @@
             "type": "color"
           }
         },
-        "help-hint-text": {
+        "help-text-hint-msg": {
           "error": {
             "value": "#000",
             "type": "color"
           }
         },
-        "list-text": {
+        "help-text-hint-list-msg": {
           "error": {
             "value": "#000",
             "type": "color"
