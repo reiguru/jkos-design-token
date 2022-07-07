@@ -799,7 +799,7 @@
       },
       "text-primary": {
         "type": "color",
-        "value": "{palette.brand.400}"
+        "value": "{palette.brand.500}"
       },
       "text-link": {
         "type": "color",
