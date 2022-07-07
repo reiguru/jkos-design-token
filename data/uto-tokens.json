@@ -1522,6 +1522,12 @@
           "type": "color"
         }
       },
+      "others": {
+        "1": {
+          "value": "#00000000",
+          "type": "color"
+        }
+      },
       "gradient": {
         "1": {
           "value": "linear-gradient(45deg, #EF01DB 0%, #14CBD5 100%)",
