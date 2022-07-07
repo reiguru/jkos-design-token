@@ -2359,30 +2359,6 @@
               "value": "#000",
               "type": "color"
             }
-          },
-          "help-text-counter": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "help-text-hint-msg": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "help-text-hint-list-msg": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "help-text-hint-msg-with-icon": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
           }
         }
       }
