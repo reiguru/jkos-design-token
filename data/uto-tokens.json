@@ -1526,6 +1526,11 @@
         "1": {
           "value": "#00000000",
           "type": "color"
+        },
+        "2": {
+          "value": "#A119221a",
+          "type": "color",
+          "description": "text field bg error"
         }
       },
       "gradient": {
