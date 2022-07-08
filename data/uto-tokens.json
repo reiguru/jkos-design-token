@@ -2172,7 +2172,7 @@
             },
             "bg-active": {
               "type": "color",
-              "value": "{palette.grey.20}"
+              "value": "{palette.other.1}"
             },
             "bg-disable": {
               "type": "color",
