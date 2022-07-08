@@ -2149,7 +2149,7 @@
               "type": "color"
             },
             "stroke-disable": {
-              "value": "###",
+              "value": "{palette.grey.30}",
               "type": "color"
             },
             "text-default": {
@@ -2172,7 +2172,7 @@
             },
             "bg-active": {
               "type": "color",
-              "value": "{palette.other.1}"
+              "value": "{palette.grey.20}"
             },
             "bg-disable": {
               "type": "color",
