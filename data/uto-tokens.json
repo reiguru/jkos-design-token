@@ -2202,19 +2202,19 @@
         "textFields": {
           "container-bg": {
             "default": {
-              "value": "#000",
+              "value": "{palette.other.1}",
               "type": "color"
             },
             "typing": {
-              "value": "#000",
+              "value": "{palette.grey.10}",
               "type": "color"
             },
             "enable": {
-              "value": "#000",
+              "value": "{palette.other.1}",
               "type": "color"
             },
             "disable": {
-              "value": "#000",
+              "value": "{palette.other.1}",
               "type": "color"
             },
             "error": {
@@ -2224,139 +2224,67 @@
           },
           "input-indicator": {
             "default": {
-              "value": "#000",
+              "value": "{theme.text-muted}",
               "type": "color"
             },
             "typing": {
-              "value": "#000",
+              "value": "{theme.text-AAA}",
               "type": "color"
             },
             "enable": {
-              "value": "#000",
+              "value": "{theme.text-AA}",
               "type": "color"
             },
             "disable": {
-              "value": "#000",
+              "value": "{theme.text-muted}",
               "type": "color"
             },
             "error": {
-              "value": "#000",
+              "value": "{theme.text-danger}",
               "type": "color"
             }
           },
           "input-placeholder": {
             "default": {
-              "value": "#000",
+              "value": "{theme.text-muted}",
               "type": "color"
             },
             "typing": {
-              "value": "#000",
+              "value": "{theme.text-AAA}",
               "type": "color"
             },
             "enable": {
-              "value": "#000",
+              "value": "{theme.text-AA}",
               "type": "color"
             },
             "disable": {
-              "value": "#000",
+              "value": "{theme.text-A}",
               "type": "color"
             },
             "error": {
-              "value": "#000",
+              "value": "{theme.text-danger}",
               "type": "color"
             }
           },
           "help-text-counter": {
+            "default": {
+              "value": "{theme.text-A}",
+              "type": "color"
+            },
             "error": {
-              "value": "#000",
+              "value": "{theme.text-danger}",
               "type": "color"
             }
           },
           "help-text-hint-msg": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "help-text-hint-list-msg": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "help-text-hint-msg-with-icon": {
-            "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          }
-        }
-      },
-      "darkTheme": {
-        "textFields": {
-          "container-bg": {
             "default": {
-              "value": "#000",
-              "type": "color"
-            },
-            "typing": {
-              "value": "#000",
-              "type": "color"
-            },
-            "enable": {
-              "value": "#000",
-              "type": "color"
-            },
-            "disable": {
-              "value": "#000",
-              "type": "color"
-            },
-            "error": {
-              "value": "#000",
+              "value": "{theme.text-A}",
               "type": "color"
             }
           },
-          "input-indicator": {
-            "default": {
-              "value": "#000",
-              "type": "color"
-            },
-            "typing": {
-              "value": "#000",
-              "type": "color"
-            },
-            "enable": {
-              "value": "#000",
-              "type": "color"
-            },
-            "disable": {
-              "value": "#000",
-              "type": "color"
-            },
+          "help-text-error-msg": {
             "error": {
-              "value": "#000",
-              "type": "color"
-            }
-          },
-          "input-placeholder": {
-            "default": {
-              "value": "#000",
-              "type": "color"
-            },
-            "typing": {
-              "value": "#000",
-              "type": "color"
-            },
-            "enable": {
-              "value": "#000",
-              "type": "color"
-            },
-            "disable": {
-              "value": "#000",
-              "type": "color"
-            },
-            "error": {
-              "value": "#000",
+              "value": "{theme.text-danger}",
               "type": "color"
             }
           }
