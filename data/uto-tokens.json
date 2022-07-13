@@ -2223,7 +2223,7 @@
               "type": "color"
             },
             "error": {
-              "value": "#000",
+              "value": "{palette.other.2}",
               "type": "color"
             }
           },
