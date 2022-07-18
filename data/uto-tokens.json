@@ -2204,8 +2204,10 @@
             }
           },
           "state-layer": {
-            "value": "{palette.grey.20}",
-            "type": "color"
+            "default": {
+              "value": "{palette.grey.20}",
+              "type": "color"
+            }
           }
         },
         "textFields": {
