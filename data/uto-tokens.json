@@ -2273,7 +2273,7 @@
               "type": "color"
             },
             "error": {
-              "value": "{theme.text-danger}",
+              "value": "{theme.text-AAA}",
               "type": "color"
             }
           },
