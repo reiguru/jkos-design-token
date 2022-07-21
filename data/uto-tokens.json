@@ -2212,20 +2212,12 @@
         },
         "textFields": {
           "container-bg": {
+            "none": {
+              "value": "{palette.other.1}",
+              "type": "color"
+            },
             "default": {
-              "value": "{palette.other.1}",
-              "type": "color"
-            },
-            "typing": {
               "value": "{palette.grey.10}",
-              "type": "color"
-            },
-            "enable": {
-              "value": "{palette.other.1}",
-              "type": "color"
-            },
-            "disable": {
-              "value": "{palette.other.1}",
               "type": "color"
             },
             "error": {
@@ -2233,17 +2225,27 @@
               "type": "color"
             }
           },
+          "label": {
+            "title-default": {
+              "value": "{theme.text-AAA}",
+              "type": "color"
+            },
+            "subtitle-default": {
+              "value": "{palette.other.2}",
+              "type": "color"
+            },
+            "icon-default": {
+              "value": "{theme.text-muted}",
+              "type": "color"
+            }
+          },
           "input-indicator": {
-            "default": {
+            "enable": {
               "value": "{theme.text-muted}",
               "type": "color"
             },
             "typing": {
               "value": "{theme.text-AAA}",
-              "type": "color"
-            },
-            "enable": {
-              "value": "{theme.text-AA}",
               "type": "color"
             },
             "disable": {
@@ -2259,13 +2261,15 @@
             "default": {
               "value": "{theme.text-muted}",
               "type": "color"
+            }
+          },
+          "input-text": {
+            "enable": {
+              "value": "{theme.text-AA}",
+              "type": "color"
             },
             "typing": {
               "value": "{theme.text-AAA}",
-              "type": "color"
-            },
-            "enable": {
-              "value": "{theme.text-AA}",
               "type": "color"
             },
             "disable": {
@@ -2273,7 +2277,43 @@
               "type": "color"
             },
             "error": {
-              "value": "{theme.text-AAA}",
+              "value": "{theme.text-danger}",
+              "type": "color"
+            }
+          },
+          "input-cursor": {
+            "default": {
+              "value": "{theme.text-primary}",
+              "type": "color"
+            }
+          },
+          "input-dismiss-icon": {
+            "default": {
+              "value": "{theme.text-muted}",
+              "type": "color"
+            }
+          },
+          "input-prefix": {
+            "icon-default": {
+              "value": "{theme.text-A}",
+              "type": "color"
+            },
+            "text-default": {
+              "value": "{theme.text-A}",
+              "type": "color"
+            }
+          },
+          "input-suffix": {
+            "icon-default": {
+              "value": "{theme.text-A}",
+              "type": "color"
+            },
+            "icon-active": {
+              "value": "{theme.text-AA}",
+              "type": "color"
+            },
+            "text-default": {
+              "value": "{theme.text-A}",
               "type": "color"
             }
           },
@@ -2291,9 +2331,7 @@
             "default": {
               "value": "{theme.text-A}",
               "type": "color"
-            }
-          },
-          "help-text-error-msg": {
+            },
             "error": {
               "value": "{theme.text-danger}",
               "type": "color"
