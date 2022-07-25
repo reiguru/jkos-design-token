@@ -2231,7 +2231,7 @@
               "type": "color"
             },
             "subtitle-default": {
-              "value": "{palette.other.2}",
+              "value": "{theme.text-A}",
               "type": "color"
             },
             "icon-default": {
